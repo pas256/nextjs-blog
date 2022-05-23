@@ -10,3 +10,9 @@ Who's there?
 Interrupting cow
 
 Interrupting cow who MOOOOOOOOOO!
+
+---
+
+Why did the cow cross the road?
+
+Because the farmer's hands were too cold.
